@@ -7,7 +7,7 @@
 <br>then install 
 <br>_rbenv install 3.0.6_
 <br>next run that ruby env by entering
-<br>_rbenv global/shell 3.0.6_ # not can use either global or shell keyword not both at one time
+<br>_rbenv global/shell 3.0.6_ # use either global or shell keyword olny in one command ie. not meant to run both at same time
 
 A number of object-oriented coding challenges with tests lovingly borrowed from the [Exercism.io Ruby Track](http://exercism.io/languages/ruby).
 
