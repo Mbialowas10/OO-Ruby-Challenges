@@ -1,13 +1,13 @@
 # Object Oriented Ruby Challenges
 
 # Modified on Jan 8, 2024
-# Tests could not be run using Ruby 3.1.2, had to run with Ruby 3.0.6
-# In terminal run 
-# rbenv install --list
-# then install 
-# rbenv install 3.0.6
-# next run that ruby env by entering
-# rbenv global/shell 3.0.6 # not can use either global or shell keyword not both at one time
+Tests could not be run using Ruby 3.1.2, had to run with Ruby 3.0.6
+In terminal run 
+rbenv install --list
+then install 
+rbenv install 3.0.6
+next run that ruby env by entering
+rbenv global/shell 3.0.6 # not can use either global or shell keyword not both at one time
 
 A number of object-oriented coding challenges with tests lovingly borrowed from the [Exercism.io Ruby Track](http://exercism.io/languages/ruby).
 
